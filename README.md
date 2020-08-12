@@ -1,0 +1,2 @@
+# BasicMBG
+Basic MyBatis Generation
